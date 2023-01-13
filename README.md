@@ -5,7 +5,6 @@ This repository contain CEC Project EPC-17-047 deliverables. In some cases the d
 ## Task 1 - Final Report
 
 1. [Final Report](Task%201.1%20-%20Final%20Report.pdf)
-- [x] Final Report
 
 ## Task 2 - Requirements Analysis
 
