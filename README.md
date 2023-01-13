@@ -14,7 +14,7 @@ This repository contain CEC Project EPC-17-047 deliverables. In some cases the d
 
 ## Task 3 - Implementation
 
-1. [Implementation Report (CPR Report #1)](Task%203.1%20-%20Implementation%20Report%20(CPR%20Report%20#1))
+1. [Implementation Report (CPR Report #1)](Task%203.1%20-%20Implementation%20Report%20-%20CPR%20Report%201)
 
 ## Task 4 - Testing and Validation
 
@@ -25,7 +25,7 @@ This repository contain CEC Project EPC-17-047 deliverables. In some cases the d
 
 1. [Developer and User Training Documentation](Task%205.1%20-%20Developer%20and%20User%20Training%20Documentation)
 - [ ]	Final Product Release Report
-3. [Production Report (CPR Report #2)](Task%205.3%20-%20Production%20Report%20(CPR%20Report%20#2))
+3. [Production Report (CPR Report #2)](Task%205.3%20-%20Production%20Report%20-%20CPR%20Report%202)
 
 ## Task 6 - Evaluation of Project 
 
