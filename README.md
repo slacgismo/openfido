@@ -4,13 +4,14 @@ This repository contain CEC Project EPC-17-047 deliverables. In some cases the d
 
 ## Task 1 - Final Report
 
-1. [Final Report](TODO)
-- [ ] Final Report
+1. [Final Report](Task%201.1%20-%20Final%20Report.pdf)
+- [x] Final Report
 
 ## Task 2 - Requirements Analysis
 
-- [ ] Data Exchange Requirements and Assessment Presentation
-- [ ] Data Exchange Implementation and Validation Plan Presentation
+1. [Data Exchange Requirements and Assessment Presentation](Task%202.1%20-%20Data%20Exchange%20Requirements%20and%20Assessment%20Presentation.pdf)
+2. [Data Exchange Implementation and Validation Plan](Task%202.2%20-%20Data%20Exchange%20Implementation%20and%20Validation%20Plan.pdf)
+3. [Data Exchange Implementation and Validation Plan Presentation](Task%202.3%20-%20Data%20Exchange%20Implementation%20and%20Validation%20Plan%20Presentation.pdf)
 
 ## Task 3 - Implementation
 
@@ -18,7 +19,8 @@ This repository contain CEC Project EPC-17-047 deliverables. In some cases the d
 
 ## Task 4 - Testing and Validation
 
-- [ ] Testing and Validation Presentation
+1. [Testing and Validation Presentation](Task%204.1%20-%20Testing%20and%20Validation%20Presentation.pdf)
+2. [Testing and Validation Report](Task%204.2%20-%20Testing%20and%20Validation%20Report.pdf)
 
 ## Task 5 - Finalize Production
 
