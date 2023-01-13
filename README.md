@@ -14,7 +14,7 @@ This repository contain CEC Project EPC-17-047 deliverables. In some cases the d
 
 ## Task 3 - Implementation
 
-- [ ] Implementation Report (CPR Report #1)
+1. [Implementation Report (CPR Report #1)](Task%203.1%20-%20Implementation%20Report%20(CPR%20Report%20#1))
 
 ## Task 4 - Testing and Validation
 
@@ -23,20 +23,20 @@ This repository contain CEC Project EPC-17-047 deliverables. In some cases the d
 
 ## Task 5 - Finalize Production
 
-- [ ] Developer and User Training Documentation
+1. [Developer and User Training Documentation](Task%205.1%20-%20Developer%20and%20User%20Training%20Documentation)
 - [ ]	Final Product Release Report
-- [ ]	Production Report (CPR Report #2)
+3. [Production Report (CPR Report #2)](Task%205.3%20-%20Production%20Report%20(CPR%20Report%20#2))
 
 ## Task 6 - Evaluation of Project 
 
-- [ ]	Kick-off Meeting Benefits Questionnaire 
+1. [Kick-off Meeting Benefits Questionnaire](Task%206.1%20-%20Kickoff%20Meeting%20Benefits%20Questionaire)
 - [ ]	Mid-term Benefits Questionnaire 
 - [ ]	Final Meeting Benefits Questionnaire 
 
 ## Task 7 - Technology Transfer
 
-- [ ] Initial Fact Sheet 
+1. [Initial Fact Sheet](Task%207.1%20-%20Initial%20Fact%20Sheet)
 - [ ]	Final Project Fact Sheet 
 - [ ]	Presentation Materials 
-- [ ]	Technology/Knowledge Transfer Plan 
-- [ ]	Technology/Knowledge Transfer Report 
+4. [Technology/Knowledge Transfer Plan](Task%207.4%20-%20Technology%20Knowledge%20Transfer%20Plan)
+5. [Technology/Knowledge Transfer Report](Task%207.5%20-%20Technology%20Knowledge%20Transfer%20Report)
