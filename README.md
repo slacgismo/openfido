@@ -24,7 +24,7 @@ This repository contain CEC Project EPC-17-047 deliverables. In some cases the d
 ## Task 5 - Finalize Production
 
 1. [Developer and User Training Documentation](Task%205.1%20-%20Developer%20and%20User%20Training%20Documentation.pdf)
-- [ ]	Final Product Release Report
+2. [Final Product Release Report](Task%205.2%20-%20Final%20Product%20Release%20Report.pdf)
 3. [Production Report (CPR Report #2)](Task%205.3%20-%20Production%20Report%20-%20CPR%20Report%202.pdf)
 
 ## Task 6 - Evaluation of Project 
