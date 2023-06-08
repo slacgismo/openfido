@@ -4,7 +4,7 @@ This repository contain CEC Project EPC-17-047 deliverables. In some cases the d
 
 ## Task 1 - Final Report
 
-1. [Final Report](Task%201.1%20-%20Final%20Report.pdf)
+1. [Final Report](Task%201.1%20-%20Final%20Report.pdf) (**[PR #5](/../../pull/5)**)
 
 ## Task 2 - Requirements Analysis
 
@@ -30,12 +30,12 @@ This repository contain CEC Project EPC-17-047 deliverables. In some cases the d
 ## Task 6 - Evaluation of Project 
 
 1. [Kick-off Meeting Benefits Questionnaire](Task%206.1%20-%20Kickoff%20Meeting%20Benefits%20Questionaire.pdf)
-- [ ] Final Meeting Benefits Questionnaire 
+2. [Final Meeting Benefits Questionnaire](Task%206.2%20-%20Final%20Meeting%20Benefits%20Questionnaire.xlsx)
 
 ## Task 7 - Technology Transfer
 
 1. [Initial Fact Sheet](Task%207.1%20-%20Initial%20Fact%20Sheet.pdf)
-- [ ] Final Project Fact Sheet 
+2. [Final Project Fact Sheet](Task%207.2%20-%20Final%20Project%20Fact%20Sheet.pdf)
 - [ ] Presentation Materials 
 4. [Technology/Knowledge Transfer Plan](Task%207.4%20-%20Technology%20Knowledge%20Transfer%20Plan.pdf)
 5. [Technology/Knowledge Transfer Report](Task%207.5%20-%20Technology%20Knowledge%20Transfer%20Report.pdf)
