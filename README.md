@@ -36,6 +36,6 @@ This repository contain CEC Project EPC-17-047 deliverables. In some cases the d
 
 1. [Initial Fact Sheet](Task%207.1%20-%20Initial%20Fact%20Sheet.pdf)
 2. [Final Project Fact Sheet](Task%207.2%20-%20Final%20Project%20Fact%20Sheet.pdf)
-- [ ] Presentation Materials 
+3. [Presentation Materials](Task%207.3%20-%20Final%20Presentation.pdf)
 4. [Technology/Knowledge Transfer Plan](Task%207.4%20-%20Technology%20Knowledge%20Transfer%20Plan.pdf)
 5. [Technology/Knowledge Transfer Report](Task%207.5%20-%20Technology%20Knowledge%20Transfer%20Report.pdf)
